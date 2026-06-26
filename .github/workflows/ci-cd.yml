@@ -8,10 +8,10 @@ on:
 env:
   HARBOR_REGISTRY: 210.90.24.172:8080
   HARBOR_PROJECT: camit
-  STUDENT_ID: yklee2002
+  STUDENT_ID: tannphanu
   IMAGE_NAME: resttemplateserver-sep
 
-  GITOPS_REPO: leeyoungkon/resttemplateserver-sep-gitops
+  GITOPS_REPO: tannphanu/resttemplateserver-sep-gitops
   GITOPS_PATH: overlays/dev
 
 jobs:
