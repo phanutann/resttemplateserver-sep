@@ -18,7 +18,7 @@ import static org.springframework.http.HttpStatus.NOT_FOUND;
 
 @RestController
 @RequestMapping("/books")
-public class BookController { //test
+public class BookController { //tests
 
 	private final BookRepository bookRepository;
 
